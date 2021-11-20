@@ -1,4 +1,4 @@
-# CarPrice
+# VaahanMol
 
 ## Website
 This web app is hosted on heroku and can be viewed from the link given below :
@@ -9,7 +9,7 @@ Vaahan Mol app helps in predicting the prices of cars with respect to certain pa
 
 ## Flowchart of Methodology
 
-![Flowchart](/TelloTweet.png)
+![Flowchart](/VaahanMol.png)
 
 ## I/O Screenshots
 
